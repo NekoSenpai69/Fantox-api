@@ -42,7 +42,7 @@ body{
 
 .sidebar.close{
 
-  width: 53px;
+  width: 78px;
 
 }
 
@@ -55,11 +55,10 @@ body{
   display: flex;
 
   align-items: center;
-  
+
   background: #1d1b31;
 
   transition: all 0.3s ease;
-
 }
 
 .sidebar .logo-details i{
@@ -75,10 +74,10 @@ body{
   text-align: center;
 
   line-height: 50px;
-  background: #1d1b31;
+  
+background: #1d1b31;
 
   transition: all 0.3s ease;
-
 }
 
 .sidebar .logo-details .logo_name{
@@ -89,9 +88,9 @@ body{
 
   font-weight: 600;
 
-  transition: 0.3s ease;
+  transition: 0.2s ease;
 
-  transition-delay: 0.01s;
+  transition-delay: 0.1s;
 
 }
 
@@ -133,7 +132,7 @@ body{
 
   list-style: none;
 
-  transition: all 0.1s ease;
+  transition: all 0.3s ease;
 
 }
 
@@ -175,7 +174,7 @@ body{
 
   cursor: pointer;
 
-  transition: all 0.1s ease;
+  transition: all 0.2s ease;
 
 }
 
@@ -209,7 +208,7 @@ body{
 
   color: #fff;
 
-  transition: all 0.25s ease;
+  transition: all 0.2s ease;
 
 }
 
@@ -249,15 +248,15 @@ body{
 
   white-space: nowrap;
 
-  opacity: 0.3;
+  opacity: 0.6;
 
-  transition: all 0.2s ease;
+  transition: all 0.3s ease;
 
 }
 
 .sidebar .nav-links li .sub-menu a:hover{
 
-  opacity: 0.8;
+  opacity: 1;
 
 }
 
@@ -307,7 +306,7 @@ body{
 
   font-size: 18px;
 
-  opacity: 0.3;
+  opacity: 1;
 
   display: block;
 
@@ -391,7 +390,7 @@ body{
 
   background: #1d1b31;
 
-  transition: all 0.2s ease;
+  transition: all 0.3s ease;
 
 }
 
